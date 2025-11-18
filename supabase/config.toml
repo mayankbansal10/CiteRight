@@ -1,0 +1,4 @@
+project_id = "vhqbooxncqggzxrbutnv"
+
+[functions.analyze-pdf-overlay]
+verify_jwt = false
